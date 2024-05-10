@@ -32,7 +32,7 @@ const Footer = () => {
             target: "_blank",
             rel: "noreferrer",
           }}
-          href="/Deepak_Resume.pdf"
+          href="/Deepak-Resume.pdf"
         ></Button>
       </div>
       <h2 className="text-center text-sm sm:text-base mt-8">
