@@ -92,7 +92,7 @@ const HeroSection = React.memo(() => {
             target: "_blank",
             rel: "noreferrer",
           }}
-          href="/Deepak_Resume.pdf"
+          href="/Deepak-Resume.pdf"
         ></Button>
       </div>
     </div>
