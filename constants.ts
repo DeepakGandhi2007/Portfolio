@@ -32,7 +32,7 @@ export const TYPED_STRINGS = [
   "I design and develop motion",
 ];
 
-export const EMAIL = ".singh.xda@gmail.com";
+export const EMAIL = "Deepakgandhi2007@gmail.com";
 
 export const SOCIAL_LINKS = {
   linkedin: "https://www.linkedin.com/in/deepak-gandhi-694122249/",
